@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- :camera: I love to make art using computer graphics. Check out my [instagram](https://www.instagram.com/paganinist/).
+- :page_with_curl: You might want to look my [blog](https://paganinist.blogspot.com/).
 <!--
 **goldragoon/goldragoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
